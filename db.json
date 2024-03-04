@@ -1,0 +1,67 @@
+{
+  "profesores": [
+    {
+      "nombre": "Sergie",
+      "apellido": "Code",
+      "materia": [
+        {
+          "nombre": "NodeJS"
+        },
+        {
+          "nombre": "ReactJS"
+        },
+        {
+          "nombre": "Javascript"
+        }
+      ],
+      "id": "5241"
+    },
+    {
+      "id": "481f",
+      "nombre": "Elvis",
+      "apellido": "Galvalisi",
+      "materia": [
+        {
+          "nombre": "Lengua"
+        },
+        {
+          "nombre": "Historia"
+        }
+      ]
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellido": "Rodriguez",
+      "promedio": 8.2,
+      "id": "eeea"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellido": "Storni",
+      "promedio": 10,
+      "id": "1534"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "NodeJS",
+      "duracion": 7,
+      "dificultad": "intermedia",
+      "id": "82b2"
+    },
+    {
+      "nombre": "ReactJS",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "9e24"
+    },
+    {
+      "nombre": "Javascript",
+      "duracion": 5,
+      "dificultad": "intermedia",
+      "id": "2868"
+    }
+  ]
+}
